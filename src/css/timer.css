@@ -1,0 +1,33 @@
+#datetime-picker {
+    box-sizing: border-box;
+    font-size: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+button {
+    font-size: large;
+}
+
+.timer {
+    display: flex;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+
+.value {
+    font-size: 30px;
+    font-weight: bold;
+    color: brown;   
+}
+
+.label {
+    font-weight: bold;
+    text-transform: uppercase;
+}
